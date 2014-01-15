@@ -6,13 +6,14 @@ Eu não sei se você já passou por esse problema, mas aqui no escritório por t
 Veja como fazer:
 
 <ol>
-<li>Red</li>
+<li>Abra o excel e clique na aba “Desenvolvedor”</li>
 <li>Green</li>
-<li>Blue</li>
+<li>Depois clique no botão “Visual Basic”<br>
+![GitHub Logo](http://www.sergiocardoso.org/wp-content/uploads/2012/11/excel2.gif)
+Format: ![Alt Text](url)</li>
 </ol>
 
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+
 
 
