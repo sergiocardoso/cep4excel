@@ -9,8 +9,8 @@ Veja como fazer:
 <li>Abra o excel e clique na aba “Desenvolvedor”</li>
 <li>Green</li>
 <li>Depois clique no botão “Visual Basic”<br>
-![GitHub Logo](http://www.sergiocardoso.org/wp-content/uploads/2012/11/excel2.gif)
-Format: ![Alt Text](url)</li>
+![Bilby Stampede](http://www.sergiocardoso.org/wp-content/uploads/2012/11/excel2.gif)
+</li>
 </ol>
 
 
