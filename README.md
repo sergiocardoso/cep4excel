@@ -5,10 +5,10 @@ Esta macro em Excel permite que informando o cep retorne todas as informações 
 
 Veja como fazer:
 
-Faça o download da macro.<br/><br/>
-Abra o excel e clique na aba **“Desenvolvedor”**.<br/><br/>
-Depois clique no botão **“Visual Basic”**.<br/><br/>
-![](http://www.sergiocardoso.org/wp-content/uploads/2012/11/excel2.gif)<br/><br/>
+Faça o download da macro.<br/>
+Abra o excel e clique na aba **“Desenvolvedor”**.<br/>
+Depois clique no botão **“Visual Basic”**.<br/>
+![](http://www.sergiocardoso.org/wp-content/uploads/2012/11/excel2.gif)<br/>
 
 No menu do Visual Basic, clique em **Arquivo** e depois em **Importar**.<br/>
 ![](http://www.sergiocardoso.org/wp-content/uploads/2012/11/excel3.gif)<br/>
