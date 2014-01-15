@@ -5,15 +5,15 @@ Esta macro em Excel permite que informando o cep retorne todas as informações 
 
 Veja como fazer:
 
-Faça o download da macro clicando neste link e descompacte.<br/>
-Abra o excel e clique na aba **“Desenvolvedor”**.<br/>
-Depois clique no botão **“Visual Basic”**.<br/>
-![](http://www.sergiocardoso.org/wp-content/uploads/2012/11/excel2.gif)<br/>
+Faça o download da macro.<br/><br/>
+Abra o excel e clique na aba **“Desenvolvedor”**.<br/><br/>
+Depois clique no botão **“Visual Basic”**.<br/><br/>
+![](http://www.sergiocardoso.org/wp-content/uploads/2012/11/excel2.gif)<br/><br/>
 
 No menu do Visual Basic, clique em **Arquivo** e depois em **Importar**.<br/>
 ![](http://www.sergiocardoso.org/wp-content/uploads/2012/11/excel3.gif)<br/>
 
-Selecione o arquivo “cep.bas” e clique em “Abrir”.
+Selecione o arquivo “cep.bas” e clique em “Abrir”.<br/>
 Agora um detalhe importante, é necessário que o **complemento que lê arquivos XML esteja habilitado**, para isso clique em Ferramentas e depois em Referências.<br/>
 ![](http://www.sergiocardoso.org/wp-content/uploads/2012/11/excel4.gif)<br/>
 Depois confira se o complemento “Microsoft XML” está habilitado, se não, desça a janela e habilite-o. (Eu estou usando a versão 3, mas acredito que também funciona com versões superiores).
